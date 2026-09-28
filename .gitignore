@@ -2,3 +2,5 @@ node_practice.js
 api_practice/second_server/package.json
 api_practice/express_server/package.json
 api_practice/express_server/package-lock.json
+api_practice/mongoDB/.env
+api_practice/mongoDB/node_modules/.bin/dotenv.ps1
