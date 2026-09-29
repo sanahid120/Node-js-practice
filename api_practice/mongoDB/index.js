@@ -8,7 +8,7 @@ const notesRoute = require("./routes/note_routes");
 
 
 app.use(express.json());
-app.use("/notes", notesRoute);
+app.use("/notes", notesRoute); 
    
 
 app.listen(process.env.port,  async () => { 
